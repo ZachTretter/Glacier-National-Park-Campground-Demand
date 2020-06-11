@@ -1,0 +1,366 @@
+Date,Overall AQI Value,Main Pollutant,Site Name (of Overall AQI),Site ID (of Overall AQI),Source (of Overall AQI),Ozone,PM10,PM25
+1/1/2019,42,PM2.5,Flathead Valley,30-029-0049,AQS,27,15,42
+1/2/2019,33,PM2.5,Flathead Valley,30-029-0049,AQS,24,14,33
+1/3/2019,33,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,33,13,28
+1/4/2019,31,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,31,13,11
+1/5/2019,25,PM2.5,Flathead Valley,30-029-0049,AQS,12,16,25
+1/6/2019,31,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,31,15,13
+1/7/2019,30,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,30,8,3
+1/8/2019,34,PM2.5,Flathead Valley,30-029-0049,AQS,28,22,34
+1/9/2019,43,PM2.5,Flathead Valley,30-029-0049,AQS,20,15,43
+1/10/2019,86,PM2.5,Flathead Valley,30-029-0049,AQS,18,27,86
+1/11/2019,42,PM2.5,Flathead Valley,30-029-0049,AQS,19,10,42
+1/12/2019,22,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,22,8,19
+1/13/2019,24,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,24,10,16
+1/14/2019,25,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,25,19,17
+1/15/2019,23,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,23,19,20
+1/16/2019,42,PM2.5,Flathead Valley,30-029-0049,AQS,21,39,42
+1/17/2019,23,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,23,12,15
+1/18/2019,56,PM2.5,Flathead Valley,30-029-0049,AQS,16,17,56
+1/19/2019,56,PM2.5,Flathead Valley,30-029-0049,AQS,25,13,56
+1/20/2019,45,PM2.5,Flathead Valley,30-029-0049,AQS,33,9,45
+1/21/2019,33,PM2.5,Flathead Valley,30-029-0049,AQS,31,11,33
+1/22/2019,31,PM2.5,Flathead Valley,30-029-0049,AQS,28,12,31
+1/23/2019,29,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,29,13,20
+1/24/2019,39,PM2.5,Flathead Valley,30-029-0049,AQS,19,16,39
+1/25/2019,41,PM2.5,Flathead Valley,30-029-0049,AQS,23,13,41
+1/26/2019,50,PM2.5,Flathead Valley,30-029-0049,AQS,21,12,50
+1/27/2019,36,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,36,11,33
+1/28/2019,32,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,32,26,27
+1/29/2019,56,PM10,White Fish Dead End,30-029-0009,AQS,27,56,38
+1/30/2019,63,PM2.5,Flathead Valley,30-029-0049,AQS,28,31,63
+1/31/2019,82,PM2.5,Flathead Valley,30-029-0049,AQS,21,48,82
+2/1/2019,103,PM2.5,Flathead Valley,30-029-0049,AQS,15,52,103
+2/2/2019,30,PM2.5,Flathead Valley,30-029-0049,AQS,30,13,30
+2/3/2019,54,PM10,White Fish Dead End,30-029-0009,AQS,27,54,19
+2/4/2019,28,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,28,18,13
+2/5/2019,31,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,31,20,17
+2/6/2019,33,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,33,12,20
+2/7/2019,31,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,31,14,22
+2/8/2019,31,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,31,19,28
+2/9/2019,39,PM2.5,Flathead Valley,30-029-0049,AQS,31,15,39
+2/10/2019,35,PM2.5,Flathead Valley,30-029-0049,AQS,31,13,35
+2/11/2019,52,PM2.5,Flathead Valley,30-029-0049,AQS,27,17,52
+2/12/2019,38,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,38,15,37
+2/13/2019,38,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,38,8,22
+2/14/2019,40,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,40,10,21
+2/15/2019,39,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,39,10,28
+2/16/2019,33,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,33,8,12
+2/17/2019,35,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,35,15,26
+2/18/2019,49,PM2.5,Flathead Valley,30-029-0049,AQS,35,28,49
+2/19/2019,60,PM2.5,Flathead Valley,30-029-0049,AQS,35,17,60
+2/20/2019,43,PM2.5,Flathead Valley,30-029-0049,AQS,35,14,43
+2/21/2019,48,PM2.5,Flathead Valley,30-029-0049,AQS,33,22,48
+2/22/2019,52,PM2.5,Flathead Valley,30-029-0049,AQS,37,22,52
+2/23/2019,33,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,33,13,24
+2/24/2019,37,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,37,11,19
+2/25/2019,39,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,39,14,17
+2/26/2019,38,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,38,9,23
+2/27/2019,40,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,40,10,26
+2/28/2019,43,PM2.5,Flathead Valley,30-029-0049,AQS,35,12,43
+3/1/2019,40,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,40,17,13
+3/2/2019,38,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,38,8,23
+3/3/2019,41,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,41,9,23
+3/4/2019,42,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,42,12,39
+3/5/2019,58,PM2.5,Flathead Valley,30-029-0049,AQS,45,18,58
+3/6/2019,47,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,47,18,31
+3/7/2019,44,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,44,9,18
+3/8/2019,43,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,43,16,33
+3/9/2019,44,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,44,12,31
+3/10/2019,46,PM2.5,Flathead Valley,30-029-0049,AQS,44,24,46
+3/11/2019,51,PM2.5,Flathead Valley,30-029-0049,AQS,44,28,51
+3/12/2019,41,PM2.5,Flathead Valley,30-029-0049,AQS,39,29,41
+3/13/2019,41,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,41,8,12
+3/14/2019,41,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,41,13,28
+3/15/2019,49,PM2.5,Flathead Valley,30-029-0049,AQS,43,31,49
+3/16/2019,50,PM2.5,Flathead Valley,30-029-0049,AQS,44,31,50
+3/17/2019,54,PM2.5,Flathead Valley,30-029-0049,AQS,44,36,54
+3/18/2019,46,PM2.5,Flathead Valley,30-029-0049,AQS,45,44,46
+3/19/2019,55,PM2.5,Flathead Valley,30-029-0049,AQS,48,54,55
+3/20/2019,61,PM10,White Fish Dead End,30-029-0009,AQS,47,61,55
+3/21/2019,66,PM10,White Fish Dead End,30-029-0009,AQS,37,66,41
+3/22/2019,65,PM10,White Fish Dead End,30-029-0009,AQS,45,65,56
+3/23/2019,52,PM2.5,Flathead Valley,30-029-0049,AQS,44,52,52
+3/24/2019,31,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,31,24,20
+3/25/2019,42,PM10,White Fish Dead End,30-029-0009,AQS,41,42,26
+3/26/2019,41,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,41,33,39
+3/27/2019,43,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,43,31,23
+3/28/2019,40,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,40,35,20
+3/29/2019,44,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,44,38,33
+3/30/2019,44,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,44,38,38
+3/31/2019,39,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,39,26,36
+4/1/2019,38,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,38,24,28
+4/2/2019,46,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,46,42,14
+4/3/2019,34,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,34,27,30
+4/4/2019,41,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,41,31,33
+4/5/2019,34,PM10,White Fish Dead End,30-029-0009,AQS,31,34,27
+4/6/2019,42,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,42,18,6
+4/7/2019,31,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,31,13,19
+4/8/2019,42,PM10,White Fish Dead End,30-029-0009,AQS,40,42,21
+4/9/2019,29,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,29,10,11
+4/10/2019,33,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,33,10,17
+4/11/2019,38,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,38,10,15
+4/12/2019,36,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,36,24,16
+4/13/2019,35,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,35,20,14
+4/14/2019,38,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,38,19,7
+4/15/2019,43,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,43,31,14
+4/16/2019,41,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,41,40,12
+4/17/2019,38,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,38,24,5
+4/18/2019,53,PM10,Kalispell Flathead Electric,30-029-0047,AQS,38,53,25
+4/19/2019,30,PM2.5,Flathead Valley,30-029-0049,AQS,24,30,30
+4/20/2019,31,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,31,9,12
+4/21/2019,44,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,44,24,15
+4/22/2019,44,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,44,41,25
+4/23/2019,41,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,41,40,8
+4/24/2019,48,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,48,43,23
+4/25/2019,59,PM10,Kalispell Flathead Electric,30-029-0047,AQS,54,59,34
+4/26/2019,47,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,47,40,32
+4/27/2019,41,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,41,19,13
+4/28/2019,42,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,42,13,6
+4/29/2019,44,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,44,19,13
+4/30/2019,46,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,46,31,14
+5/1/2019,58,PM10,Kalispell Flathead Electric,30-029-0047,AQS,44,58,22
+5/2/2019,61,PM10,Kalispell Flathead Electric,30-029-0047,AQS,44,61,.
+5/3/2019,57,PM10,Kalispell Flathead Electric,30-029-0047,AQS,44,57,22
+5/4/2019,62,PM10,Kalispell Flathead Electric,30-029-0047,AQS,41,62,.
+5/5/2019,30,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,30,7,.
+5/6/2019,38,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,38,36,8
+5/7/2019,20,PM10,Kalispell Flathead Electric,30-029-0047,AQS,.,20,7
+5/8/2019,40,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,40,21,3
+5/9/2019,48,PM10,Kalispell Flathead Electric,30-029-0047,AQS,45,48,11
+5/10/2019,65,PM10,Kalispell Flathead Electric,30-029-0047,AQS,42,65,15
+5/11/2019,61,PM10,Kalispell Flathead Electric,30-029-0047,AQS,41,61,18
+5/12/2019,53,PM10,Kalispell Flathead Electric,30-029-0047,AQS,51,53,33
+5/13/2019,71,PM10,Kalispell Flathead Electric,30-029-0047,AQS,49,71,28
+5/14/2019,51,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,51,39,16
+5/15/2019,44,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,44,33,9
+5/16/2019,33,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,33,14,0
+5/17/2019,23,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,23,10,0
+5/18/2019,36,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,36,7,1
+5/19/2019,41,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,41,9,0
+5/20/2019,34,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,34,29,2
+5/21/2019,28,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,28,27,2
+5/22/2019,43,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,43,19,5
+5/23/2019,48,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,48,27,13
+5/24/2019,47,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,47,25,18
+5/25/2019,39,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,39,13,6
+5/26/2019,41,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,41,8,0
+5/27/2019,44,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,44,14,18
+5/28/2019,49,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,49,21,10
+5/29/2019,47,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,47,28,19
+5/30/2019,47,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,47,37,40
+5/31/2019,73,PM2.5,Flathead Valley,30-029-0049,AQS,49,43,73
+6/1/2019,71,PM2.5,Flathead Valley,30-029-0049,AQS,45,32,71
+6/2/2019,49,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,49,26,45
+6/3/2019,43,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,43,26,20
+6/4/2019,48,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,48,36,6
+6/5/2019,40,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,40,29,28
+6/6/2019,31,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,31,8,0
+6/7/2019,31,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,31,23,3
+6/8/2019,23,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,23,10,8
+6/9/2019,30,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,30,16,8
+6/10/2019,32,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,32,21,10
+6/11/2019,34,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,34,20,18
+6/12/2019,32,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,32,25,9
+6/13/2019,34,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,34,31,13
+6/14/2019,39,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,39,30,16
+6/15/2019,38,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,38,21,10
+6/16/2019,40,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,40,16,13
+6/17/2019,39,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,39,20,15
+6/18/2019,41,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,41,26,15
+6/19/2019,39,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,39,31,13
+6/20/2019,27,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,27,9,5
+6/21/2019,18,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,18,9,2
+6/22/2019,20,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,20,13,11
+6/23/2019,20,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,20,13,16
+6/24/2019,29,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,29,12,7
+6/25/2019,39,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,39,19,13
+6/26/2019,41,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,41,20,14
+6/27/2019,28,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,28,21,15
+6/28/2019,37,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,37,16,12
+6/29/2019,36,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,36,18,10
+6/30/2019,37,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,37,14,16
+7/1/2019,42,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,42,22,16
+7/2/2019,36,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,36,25,16
+7/3/2019,31,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,31,12,8
+7/4/2019,28,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,28,21,17
+7/5/2019,30,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,30,18,14
+7/6/2019,31,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,31,16,16
+7/7/2019,37,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,37,19,18
+7/8/2019,36,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,36,18,15
+7/9/2019,37,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,37,28,20
+7/10/2019,31,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,31,24,21
+7/11/2019,22,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,22,19,16
+7/12/2019,28,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,28,22,10
+7/13/2019,26,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,26,19,14
+7/14/2019,36,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,36,17,12
+7/15/2019,37,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,37,19,17
+7/16/2019,30,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,30,15,16
+7/17/2019,25,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,25,16,6
+7/18/2019,31,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,31,21,1
+7/19/2019,26,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,26,18,7
+7/20/2019,28,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,28,14,11
+7/21/2019,34,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,34,13,15
+7/22/2019,30,PM2.5,Flathead Valley,30-029-0049,AQS,21,28,30
+7/23/2019,38,PM2.5,Flathead Valley,30-029-0049,AQS,28,25,38
+7/24/2019,37,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,37,18,13
+7/25/2019,38,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,38,21,21
+7/26/2019,35,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,35,22,25
+7/27/2019,33,PM2.5,Flathead Valley,30-029-0049,AQS,33,22,33
+7/28/2019,36,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,36,21,23
+7/29/2019,40,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,40,23,26
+7/30/2019,45,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,45,25,20
+7/31/2019,44,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,44,31,32
+8/1/2019,41,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,41,34,34
+8/2/2019,36,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,36,28,30
+8/3/2019,36,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,36,19,24
+8/4/2019,42,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,42,24,38
+8/5/2019,43,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,43,31,40
+8/6/2019,58,PM2.5,Flathead Valley,30-029-0049,AQS,40,35,58
+8/7/2019,62,PM2.5,Flathead Valley,30-029-0049,AQS,40,42,62
+8/8/2019,75,PM2.5,Flathead Valley,30-029-0049,AQS,38,53,75
+8/9/2019,60,PM2.5,Flathead Valley,30-029-0049,AQS,22,34,60
+8/10/2019,25,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,25,20,15
+8/11/2019,27,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,27,11,18
+8/12/2019,22,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,22,13,12
+8/13/2019,30,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,30,19,15
+8/14/2019,30,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,30,19,16
+8/15/2019,32,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,32,15,16
+8/16/2019,33,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,33,22,22
+8/17/2019,26,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,26,11,8
+8/18/2019,34,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,34,17,18
+8/19/2019,38,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,38,16,18
+8/20/2019,31,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,31,23,20
+8/21/2019,26,PM10,Kalispell Flathead Electric,30-029-0047,AQS,26,26,25
+8/22/2019,33,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,33,19,23
+8/23/2019,27,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,27,15,15
+8/24/2019,35,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,35,18,14
+8/25/2019,24,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,24,16,13
+8/26/2019,28,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,28,14,11
+8/27/2019,35,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,35,19,17
+8/28/2019,30,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,30,23,19
+8/29/2019,33,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,33,27,14
+8/30/2019,30,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,30,19,12
+8/31/2019,24,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,24,15,18
+9/1/2019,29,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,29,20,24
+9/2/2019,34,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,34,15,19
+9/3/2019,34,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,34,21,15
+9/4/2019,44,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,44,31,18
+9/5/2019,41,PM10,Kalispell Flathead Electric,30-029-0047,AQS,36,41,32
+9/6/2019,30,PM2.5,Flathead Valley,30-029-0049,AQS,27,22,30
+9/7/2019,33,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,33,17,31
+9/8/2019,23,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,23,15,22
+9/9/2019,28,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,28,9,3
+9/10/2019,20,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,20,8,7
+9/11/2019,21,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,21,12,4
+9/12/2019,29,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,29,15,8
+9/13/2019,25,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,25,19,21
+9/14/2019,29,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,29,18,15
+9/15/2019,26,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,26,17,23
+9/16/2019,26,PM10,Kalispell Flathead Electric,30-029-0047,AQS,26,26,22
+9/17/2019,25,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,25,12,11
+9/18/2019,12,PM2.5,Flathead Valley,30-029-0049,AQS,10,12,12
+9/19/2019,23,PM10,Kalispell Flathead Electric,30-029-0047,AQS,19,23,12
+9/20/2019,19,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,19,12,14
+9/21/2019,22,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,22,12,15
+9/22/2019,27,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,27,16,17
+9/23/2019,30,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,30,10,3
+9/24/2019,31,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,31,13,12
+9/25/2019,33,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,33,20,24
+9/26/2019,32,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,32,14,20
+9/27/2019,23,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,23,12,17
+9/28/2019,29,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,29,8,5
+9/29/2019,25,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,25,8,8
+9/30/2019,25,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,25,10,11
+10/1/2019,25,PM2.5,Flathead Valley,30-029-0049,AQS,22,16,25
+10/2/2019,28,PM2.5,Flathead Valley,30-029-0049,AQS,26,16,28
+10/3/2019,26,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,26,15,.
+10/4/2019,33,PM2.5,Flathead Valley,30-029-0049,AQS,29,.,33
+10/5/2019,21,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,21,8,13
+10/6/2019,28,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,28,12,24
+10/7/2019,28,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,28,16,20
+10/8/2019,26,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,26,19,0
+10/9/2019,23,PM2.5,Flathead Valley,30-029-0049,AQS,23,11,23
+10/10/2019,42,PM2.5,Flathead Valley,30-029-0049,AQS,27,21,42
+10/11/2019,54,PM2.5,Flathead Valley,30-029-0049,AQS,26,27,54
+10/12/2019,55,PM2.5,Flathead Valley,30-029-0049,AQS,26,22,55
+10/13/2019,32,PM2.5,Flathead Valley,30-029-0049,AQS,25,19,32
+10/14/2019,33,PM2.5,Flathead Valley,30-029-0049,AQS,30,21,33
+10/15/2019,43,PM2.5,Flathead Valley,30-029-0049,AQS,25,30,43
+10/16/2019,59,PM2.5,Flathead Valley,30-029-0049,AQS,31,35,59
+10/17/2019,36,PM2.5,Flathead Valley,30-029-0049,AQS,31,25,36
+10/18/2019,29,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,29,10,5
+10/19/2019,26,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,26,10,15
+10/20/2019,21,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,21,10,11
+10/21/2019,22,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,22,10,13
+10/22/2019,31,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,31,14,11
+10/23/2019,37,PM2.5,Flathead Valley,30-029-0049,AQS,29,29,37
+10/24/2019,35,PM2.5,Flathead Valley,30-029-0049,AQS,25,30,35
+10/25/2019,31,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,31,27,23
+10/26/2019,34,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,34,7,0
+10/27/2019,32,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,32,10,16
+10/28/2019,30,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,30,13,13
+10/29/2019,49,PM2.5,Flathead Valley,30-029-0049,AQS,30,19,49
+10/30/2019,56,PM2.5,Flathead Valley,30-029-0049,AQS,28,20,56
+10/31/2019,70,PM2.5,Flathead Valley,30-029-0049,AQS,24,31,70
+11/1/2019,80,PM2.5,Flathead Valley,30-029-0049,AQS,27,42,80
+11/2/2019,94,PM2.5,Flathead Valley,30-029-0049,AQS,26,36,94
+11/3/2019,81,PM2.5,Flathead Valley,30-029-0049,AQS,26,39,81
+11/4/2019,62,PM2.5,Flathead Valley,30-029-0049,AQS,20,37,62
+11/5/2019,52,PM2.5,Flathead Valley,30-029-0049,AQS,21,23,52
+11/6/2019,24,PM2.5,Flathead Valley,30-029-0049,AQS,22,22,24
+11/7/2019,46,PM2.5,Flathead Valley,30-029-0049,AQS,18,37,46
+11/8/2019,85,PM2.5,Flathead Valley,30-029-0049,AQS,19,55,85
+11/9/2019,63,PM2.5,Flathead Valley,30-029-0049,AQS,32,31,63
+11/10/2019,30,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,30,15,11
+11/11/2019,34,PM2.5,Flathead Valley,30-029-0049,AQS,24,22,34
+11/12/2019,53,PM2.5,Flathead Valley,30-029-0049,AQS,15,22,53
+11/13/2019,76,PM2.5,Flathead Valley,30-029-0049,AQS,8,25,76
+11/14/2019,72,PM2.5,Flathead Valley,30-029-0049,AQS,10,22,72
+11/15/2019,56,PM2.5,Flathead Valley,30-029-0049,AQS,14,17,56
+11/16/2019,31,PM2.5,Flathead Valley,30-029-0049,AQS,26,20,31
+11/17/2019,27,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,27,15,15
+11/18/2019,30,PM2.5,Flathead Valley,30-029-0049,AQS,9,26,30
+11/19/2019,24,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,24,12,8
+11/20/2019,30,PM10,White Fish Dead End,30-029-0009,AQS,28,30,6
+11/21/2019,51,PM10,White Fish Dead End,30-029-0009,AQS,24,51,13
+11/22/2019,55,PM2.5,Flathead Valley,30-029-0049,AQS,19,47,55
+11/23/2019,76,PM2.5,Flathead Valley,30-029-0049,AQS,16,36,76
+11/24/2019,32,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,32,17,29
+11/25/2019,37,PM2.5,Flathead Valley,30-029-0049,AQS,29,28,37
+11/26/2019,33,PM2.5,Flathead Valley,30-029-0049,AQS,31,30,33
+11/27/2019,28,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,28,26,6
+11/28/2019,23,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,23,13,11
+11/29/2019,25,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,25,18,8
+11/30/2019,44,PM2.5,Flathead Valley,30-029-0049,AQS,23,22,44
+12/1/2019,58,PM2.5,Flathead Valley,30-029-0049,AQS,18,22,58
+12/2/2019,61,PM2.5,Flathead Valley,30-029-0049,AQS,19,21,61
+12/3/2019,29,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,29,14,11
+12/4/2019,31,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,31,22,13
+12/5/2019,52,PM2.5,Flathead Valley,30-029-0049,AQS,15,16,52
+12/6/2019,59,PM2.5,Flathead Valley,30-029-0049,AQS,18,22,59
+12/7/2019,54,PM2.5,Flathead Valley,30-029-0049,AQS,19,17,54
+12/8/2019,20,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,20,16,18
+12/9/2019,49,PM2.5,Flathead Valley,30-029-0049,AQS,6,27,49
+12/10/2019,59,PM2.5,Flathead Valley,30-029-0049,AQS,16,31,59
+12/11/2019,56,PM2.5,Flathead Valley,30-029-0049,AQS,17,14,56
+12/12/2019,25,PM2.5,Flathead Valley,30-029-0049,AQS,21,8,25
+12/13/2019,30,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,30,11,0
+12/14/2019,26,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,26,21,11
+12/15/2019,29,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,29,21,13
+12/16/2019,42,PM10,White Fish Dead End,30-029-0009,AQS,29,42,12
+12/17/2019,37,PM2.5,Flathead Valley,30-029-0049,AQS,32,35,37
+12/18/2019,57,PM2.5,Flathead Valley,30-029-0049,AQS,26,53,57
+12/19/2019,35,PM2.5,Flathead Valley,30-029-0049,AQS,15,24,35
+12/20/2019,31,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,31,9,0
+12/21/2019,31,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,31,29,0
+12/22/2019,29,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,29,20,14
+12/23/2019,47,PM2.5,Flathead Valley,30-029-0049,AQS,8,38,47
+12/24/2019,40,PM2.5,Flathead Valley,30-029-0049,AQS,15,18,40
+12/25/2019,33,PM2.5,Flathead Valley,30-029-0049,AQS,23,16,33
+12/26/2019,38,PM10,White Fish Dead End,30-029-0009,AQS,20,38,27
+12/27/2019,29,PM2.5,Flathead Valley,30-029-0049,AQS,25,20,29
+12/28/2019,37,PM2.5,Flathead Valley,30-029-0049,AQS,20,17,37
+12/29/2019,43,PM2.5,Flathead Valley,30-029-0049,AQS,23,13,43
+12/30/2019,38,PM2.5,Flathead Valley,30-029-0049,AQS,19,17,38
+12/31/2019,19,Ozone,Glacier NP - West Glacier Horse Stables,30-029-8001,AQS,19,10,17

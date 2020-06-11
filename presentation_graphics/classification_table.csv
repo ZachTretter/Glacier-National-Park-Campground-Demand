@@ -1,0 +1,7 @@
+,Observations,Prevalence,Majority,Train Acc,Test Acc,Test Acc Over Baseline,Test F1
+RandomForest,29046.0,0.29,0.71,0.96,0.88,0.17,0.79
+AdaBoostClassifier,29046.0,0.29,0.71,0.87,0.86,0.16,0.75
+SVC,29046.0,0.29,0.71,0.84,0.83,0.12,0.67
+Neural Net Classifer,29046.0,0.29,0.71,0.84,0.83,0.12,0.68
+LogisticRegression,29046.0,0.29,0.71,0.82,0.81,0.1,0.65
+BernoulliNB,29046.0,0.29,0.71,0.73,0.73,0.02,0.62
